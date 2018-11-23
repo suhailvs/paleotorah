@@ -1,6 +1,6 @@
 # [torah](https://suhailvs.github.io/torah/)
 
-Usage:
+Usage::
 	
 	$ python3 -m venv venv
 	$ source ./venv/bin/activate
